@@ -1,0 +1,14 @@
+{
+    "shared": {
+        "project_name": "{{ cookiecutter.package_name }}",
+        "s3uri_artifacts": "s3://{{ cookiecutter.aws_account_id }}-{{ cookiecutter.aws_region }}-artifacts/projects/{{ cookiecutter.package_name }}/"
+    },
+    "envs": {
+        "dev": {
+        },
+        "int": {
+        },
+        "prod": {
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "package_name": "aws_ami_with_packer",
+    "author_name": "Sanhe Hu",
+    "author_email": "sanhehu@bunnymantech.com",
+    "semantic_version": "0.1.1",
+    "aws_profile": "awshsh_app_dev_us_east_1",
+    "aws_account_id": "807388292768",
+    "aws_region": "us-east-1"
+}
