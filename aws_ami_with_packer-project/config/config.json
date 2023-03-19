@@ -1,0 +1,14 @@
+{
+    "shared": {
+        "project_name": "aws_ami_with_packer",
+        "s3uri_artifacts": "s3://111122223333-us-east-1-artifacts/projects/aws_ami_with_packer/"
+    },
+    "envs": {
+        "dev": {
+        },
+        "int": {
+        },
+        "prod": {
+        }
+    }
+}
